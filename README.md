@@ -4,3 +4,16 @@
 ### - The diagram shows a short description of the procedure behind the GUI
 
 ![](/flow_diagram.png)
+
+### - 5 languages are available for translation
+"""
+German
+French
+Spanish
+Italian
+Portuguese
+"""
+
+### - Below a Screenshot of the App interface
+
+![](/screenshot.png)
